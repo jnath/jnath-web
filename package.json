@@ -1,0 +1,22 @@
+{
+  "name": "jnath-web",
+  "version": "0.0.0",
+  "description": "jnath web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnath/jnath-web.git"
+  },
+  "author": "jonathan faivre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnath/jnath-web/issues"
+  },
+  "homepage": "https://github.com/jnath/jnath-web",
+  "dependencies": {
+    "hapi": "^6.0.2"
+  }
+}
